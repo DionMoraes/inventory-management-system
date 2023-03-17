@@ -31,10 +31,45 @@ and uses Create, Read, Update, Delete operations.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-deshpande-ab3163211/)
 
 
-**Lincoln **   
+** Lincoln **   
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+
+## UI
+
+** Homepage **
+![image](https://user-images.githubusercontent.com/91892099/225953741-d4f415b6-6019-4fc2-b295-9fe1584f240c.png)
+![image](https://user-images.githubusercontent.com/91892099/225953819-f9e7d769-fd96-4b94-9e03-5e608a5b7e6c.png)
+
+
+** Dashboard **
+![image](https://user-images.githubusercontent.com/91892099/225954087-1ad14f6d-2914-4acf-8fe1-e83ae16fd82d.png)
+![image](https://user-images.githubusercontent.com/91892099/225954444-91c3d46c-eb3e-43c3-b3e4-aceea7937d74.png)
+
+
+** Login **
+![image](https://user-images.githubusercontent.com/91892099/225954744-012a8370-1dce-4e6a-9864-8cc342d5e029.png)
+
+
+** Add items **
+![image](https://user-images.githubusercontent.com/91892099/225955006-c015ef98-7ae3-44f6-9dc4-8296332cb8f2.png)
+![image](https://user-images.githubusercontent.com/91892099/225955194-1e9c861b-987b-4e99-9963-67a98b2f0bc4.png)
+
+
+** Update items **
+![image](https://user-images.githubusercontent.com/91892099/225956364-be303a7e-4c35-436d-b9b4-094816be2e8e.png)
+
+
+** About Us Page**
+![image](https://user-images.githubusercontent.com/91892099/225956704-276f57f7-96e8-42b4-a46a-8bff6a3de984.png)
+&nbsp;
+![image](https://user-images.githubusercontent.com/91892099/225956812-b4f22c7d-7106-4660-9b45-7dd3f54d7a66.png)
+
+
+
+
+
 ## Note
-- Please refer to the synopsis file to get an idea about the project
+- Please refer to the synopsis file to get an in depth view about the project
