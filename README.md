@@ -64,7 +64,6 @@ and uses Create, Read, Update, Delete operations.
 
 **About Us Page**
 ![image](https://user-images.githubusercontent.com/91892099/225956704-276f57f7-96e8-42b4-a46a-8bff6a3de984.png)
-&nbsp;
 ![image](https://user-images.githubusercontent.com/91892099/225956812-b4f22c7d-7106-4660-9b45-7dd3f54d7a66.png)
 
 
