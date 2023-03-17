@@ -37,6 +37,14 @@ and uses Create, Read, Update, Delete operations.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
+## Objectives
+   1. Planned approach towards working: - The working in the organisation will be well planned and organised. The data will be stored properly in data stores, which will help in retrieval of information as well as its storage.
+    2. No Redundancy: - In the proposed system utmost care would be that no information is repeated anywhere, in storage or otherwise. This would assure economic use of storage space and consistency in the data stored. 
+    3. Immediate retrieval of information: - The main objective of the proposed system is to provide for a quick and efficient retrieval of information. 
+    4. Easy to Operate: - The system should be easy to operate and should be such that it can be developed within a short period of time and fit in the limited budget of the user.
+
+
+
 ## UI
 
 **Homepage**
