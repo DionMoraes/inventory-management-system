@@ -80,3 +80,4 @@ and uses Create, Read, Update, Delete operations.
 
 ## Note
 - Please refer to the synopsis file to get an in depth view about the project
+- https://github.com/DionMoraes/inventory-management-system/blob/main/Synopsis.docx
